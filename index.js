@@ -23,8 +23,8 @@ function iLoveTheBeatles(n) {
     arr.push('I love the Beatles!');
     n++;
   }
-  if (arr.length === 0) {
-    arr.push('I love the Beatles!');    
-  }
+  // if (arr.length === 0) {
+  //   arr.push('I love the Beatles!');    
+  // }
   return arr;
 }
